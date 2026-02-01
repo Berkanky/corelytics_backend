@@ -1,0 +1,16 @@
+.env
+.env.*
+*.env
+node_modules/
+dist/
+out/
+release/
+build/
+coverage/
+.cache/
+*.log
+*.zip
+*.exe
+*.dmg
+*.AppImage
+*.msi
