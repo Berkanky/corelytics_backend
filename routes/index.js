@@ -19,7 +19,7 @@ app.get(
     async(req, res) => { 
         try{
           return res.status(200).json({
-            issuer: 'corelytics backend.',
+            issuer: 'corelytics_backend.',
             success: true,
             request_date: new Date()
           });
